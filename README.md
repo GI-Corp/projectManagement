@@ -11,7 +11,7 @@ Project Management Tool for automation and digitalization of development process
 [front-end] HTML, CSS, JavaScript. [back-end] Python, Django, PostgreSQL, SQLite.
 <hr>
 <b>Check out the actual web-app(1st release - v1.0):</b> http://projectmanager.pythonanywhere.com/  
-Login: Guest  
+Login: Guest
 Password: 987654321guest  
 
 Some screenshots,
