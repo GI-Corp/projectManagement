@@ -1,20 +1,23 @@
 # projectManagement
 Project Management Tool for automation and digitalization of development processes.  
 
-<b>Main features</b>:  
+<b><h3>Main features:</h3></b>  
 • CMS (Content management system)  
 • EDSM (Electronic Document Management System)  
 • FMS (Financial management system)  
 • RBAC (Role Based Access Control)
-
-Tech-stack used - [front-end] HTML, CSS, JavaScript. [back-end] Python, Django, PostgreSQL, SQLite.
-  
-Check out the actual web-app(1st release - v1.0): http://projectmanager.pythonanywhere.com/  
+<hr>
+<b><h3>Tech-stack used: </h3></b>
+[front-end] HTML, CSS, JavaScript. [back-end] Python, Django, PostgreSQL, SQLite.
+<hr>
+<b>Check out the actual web-app(1st release - v1.0):</b> http://projectmanager.pythonanywhere.com/  
 Login: Guest  
 Password: 987654321guest  
 
 Some screenshots,
 ![pm-main-screens](https://user-images.githubusercontent.com/50765400/111982375-b49ce300-8b2a-11eb-9b74-68b082dc2e94.png)
+
+<h3>How does it work ? (Workflow)</h3>
 ![pm-screens](https://user-images.githubusercontent.com/50765400/111982486-d9915600-8b2a-11eb-9c3e-c08709f771f7.png)
 ![pm1](https://user-images.githubusercontent.com/50765400/111982496-de560a00-8b2a-11eb-9266-35103d3b8a07.JPG)
 ![pm2](https://user-images.githubusercontent.com/50765400/111982518-e2822780-8b2a-11eb-8f5e-06c112080398.JPG)
