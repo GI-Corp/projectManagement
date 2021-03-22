@@ -1,7 +1,7 @@
 # projectManagement
 Project Management Tool for automation and digitalization of development processes.  
 
-Main features:  
+<b>Main features</b>:  
 • CMS (Content management system)  
 • EDSM (Electronic Document Management System)  
 • FMS (Financial management system)  
