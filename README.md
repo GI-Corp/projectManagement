@@ -16,7 +16,6 @@ Project Management Tool for automation and digitalization of development process
 
 <hr>
 # Some screenshots,
-![pm-main-screens](https://user-images.githubusercontent.com/50765400/111992085-d4d29f00-8b36-11eb-9430-dd80b120c01f.png)
 
 ### How does it work ? (Workflow)
 ![pm-screens](https://user-images.githubusercontent.com/50765400/111991910-a5239700-8b36-11eb-8752-b407195a43dd.png)
