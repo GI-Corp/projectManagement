@@ -15,11 +15,11 @@ Project Management Tool for automation and digitalization of development process
 <br>Password: 987654321guest
 
 <hr>
-Some screenshots,
-![pm-main-screens](https://user-images.githubusercontent.com/50765400/111982375-b49ce300-8b2a-11eb-9b74-68b082dc2e94.png)
+# Some screenshots,
+![pm-main-screens](https://user-images.githubusercontent.com/50765400/111992085-d4d29f00-8b36-11eb-9430-dd80b120c01f.png)
 
-<h3>How does it work ? (Workflow)</h3>
-![pm-screens](https://user-images.githubusercontent.com/50765400/111982486-d9915600-8b2a-11eb-9c3e-c08709f771f7.png)
+### How does it work ? (Workflow)
+![pm-screens](https://user-images.githubusercontent.com/50765400/111991910-a5239700-8b36-11eb-8752-b407195a43dd.png)
 
 ### Login page
 ![pm1](https://user-images.githubusercontent.com/50765400/111990795-6e994c80-8b35-11eb-8358-a0a8566f3b0c.JPG)
